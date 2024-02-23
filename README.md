@@ -1,7 +1,4 @@
-### Hi there i am alberic i love snakes :)
-
-<!--
-**Albericvgn/Albericvgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi there i am alberic i love snakes :)
 
 Here are some ideas to get you started:
 
@@ -11,6 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with anaconda 
 - 💬 Ask me about anything but anaconda
 - 📫 How to reach me: alberic.vigne@epfl.ch
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i hate snakes 
--->
+
